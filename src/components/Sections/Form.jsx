@@ -28,7 +28,7 @@ export default function Blog() {
       <div className="whiteBg">
         <div className="container">
           <HeaderInfo>
-            <h1 className="font40 extraBold">Our Blog Stories</h1>
+            <h1 className="font40 extraBold">Your Result</h1>
             <p className="font13">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
               <br />
@@ -38,7 +38,7 @@ export default function Blog() {
           <div className="row textCenter">
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
@@ -47,7 +47,7 @@ export default function Blog() {
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
@@ -56,7 +56,7 @@ export default function Blog() {
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
@@ -67,7 +67,7 @@ export default function Blog() {
           <div className="row textCenter">
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
@@ -76,7 +76,7 @@ export default function Blog() {
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
@@ -85,7 +85,7 @@ export default function Blog() {
             </div>
             <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4">
               <BlogBox
-                title="New Office!"
+                title="Found Result!"
                 text="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor."
                 tag="company"
                 author="Luke Skywalker, 2 days ago"
